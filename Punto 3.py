@@ -171,6 +171,14 @@ END-OF-EXECUTION\nEND-OF-PROGRAM\n
 ''' %(ori,mov_x,ori_m,mov_y,ori_f)
             
     print '%s' %string
+    
+    
+    
+def Prueba(numero):
+    numero = 0
+    fot i in range(5):
+        numero = i +numero
+        print numero
         
           
     
