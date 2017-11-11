@@ -176,8 +176,8 @@ END-OF-EXECUTION\nEND-OF-PROGRAM\n
     
 def Prueba(numero):
     numero = 0
-    fot i in range(5):
-        numero = i +numero
+    for i in range(5):
+        numero = i + numero
         print numero
         
           
